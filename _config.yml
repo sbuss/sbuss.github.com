@@ -1,0 +1,5 @@
+safe:   true
+baseurl: /
+url:    http://sbuss.github.com
+
+source: .

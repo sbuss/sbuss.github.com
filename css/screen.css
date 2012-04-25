@@ -1,0 +1,121 @@
+body	{
+	/*background: #434A5C;*/
+	background: #37425e;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#box	{
+	background: #fff URL(/images/body_bottom_fade.jpg) bottom left repeat-x;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	padding-bottom: 100px;
+	padding-top: 100px;
+	margin-bottom: 200px;
+}
+
+#leader	{
+	width: 100%;
+	background: #37425e;
+	height: 100px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	padding-top: 40px;
+}
+
+div.title	{
+	width: 600px;
+	text-align: left;
+	font: normal 2em verdana, sans-serif;
+	color: #fff;
+	margin: 0 auto;
+}
+
+div.title a	{
+	color: #fff;
+	text-decoration: none;
+}
+
+#tidbits	{
+	text-align: left;
+	width: 600px;
+	color: #fff;
+	margin: 0 auto;
+}
+
+#tidbits a	{
+	color: #fff;
+}
+
+#seran	{
+	width: 600px;
+	margin: 0 auto;
+	border: none;
+	text-align: left;
+}
+
+h1	{
+	margin: 0;
+	padding: 0;
+	font: normal .8em verdana, sans-serif;
+}
+
+h2	{
+	font: bold 1.3em georgia, serif;
+	margin: 0;
+	padding: 0;
+}
+
+h2.delicious-banner	{
+	font: bold 1em verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+h2.delicious-banner	a	{
+	color: #000;
+	text-decoration: none;
+}
+
+#del	{
+	font: normal .8em verdana, sans-serif;
+}
+
+#del ul	{
+	margin: 0;
+	padding: 0;
+	margin-left: 20px;
+}
+
+p	{
+	font: normal .8em verdana, sans-serif;
+	text-align: left;
+	margin: 0;
+	padding: 10px;
+}
+
+ul	{
+	font: normal .8em verdana, sans-serif;
+}
+li	{
+	font-size: 1.1em;
+}
+
+
+a	{
+	color: #666;
+}
+a:hover	{
+	color: #000;
+	text-decoration: none;
+}
+
+img.bio	{
+	float: left;
+	padding-right: 10px;
+}
+
+br.clear	{
+	clear: both;
+}
